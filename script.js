@@ -1,4 +1,5 @@
-function decimalToBinary(number){
-	return parseInt(number).toString(2);
+function decimalToBinary(num) {
+  // Write your code here
 }
-module.exports = decimalToBinary;
+
+window.decimalToBinary = decimalToBinary;
